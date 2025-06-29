@@ -34,7 +34,7 @@ I implemented and compared multiple regression models to predict flight ticket p
 - 📐 Linear Regression  
 - 💠 Support Vector Regression (SVR)  
 - 📍 K-Nearest Neighbors (KNN) Regressor  
-- 🌲 Decision Tree Regressor  
+- 🌲 Decision Tree Regressor 
 - 🌳 **Random Forest Regressor** ✅
 
 ---
